@@ -2,7 +2,6 @@ name: custom_ratio_camera
 description: custom ratio for camera preview
 version: 0.0.1
 homepage: https://github.com/loicgeek/custom_ratio_camera.git
-author: loicgeek
 
 environment:
   sdk: ">=2.18.0 <3.0.0"
