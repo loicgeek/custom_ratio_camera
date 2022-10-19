@@ -51,11 +51,11 @@ This package allow you to have a custom ratio for camera preview using the <a hr
 ```
 
 <div style="position:center">
-    <img src='./imgs/1_1.jpg' width="200">
+    <img src='https://github.com/loicgeek/custom_ratio_camera/raw/main/imgs/1_1.jpg' width="200">
     <hr>
-    <img src='./imgs/9_16.jpg' width="200">
+    <img src='https://github.com/loicgeek/custom_ratio_camera/raw/main/imgs/9_16.jpg' width="200">
     <hr>
-    <img src='./imgs/16_9.jpg' width="200">
+    <img src='https://github.com/loicgeek/custom_ratio_camera/raw/main/imgs/16_9.jpg' width="200">
    
 
 ## Additional information
