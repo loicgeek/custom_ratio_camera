@@ -64,3 +64,5 @@ This package does not handle the cropping part, you will have to handle cropping
 
 
 ## Credits
+
+<a href="https://github.com/loicgeek">Loic NGOU </a>
