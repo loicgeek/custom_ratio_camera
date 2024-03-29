@@ -41,7 +41,7 @@ This package allow you to have a custom ratio for camera preview using the <a hr
   return CustomRatioCameraPreview(
        cameraController: cameraController,
        expectedRatio: 1/1,
-       onCropData: (dx, dy, h, w) {
+       onCropData: (dx, dy, w, h) {
          print(dx);
          print(dy);
          print(h);
