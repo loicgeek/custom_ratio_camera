@@ -36,11 +36,11 @@ class CustomRatioCameraPreview extends StatefulWidget {
     int h,
   )? onCropData;
   CustomRatioCameraPreview({
-    super.key,
+    Key? key,
     double? expectedRatio,
     required this.cameraController,
     this.onCropData,
-  }) {
+  }) : super(key: key) {
     if (expectedRatio != null) {
       this.expectedRatio = expectedRatio;
     } else {

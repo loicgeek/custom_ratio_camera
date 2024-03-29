@@ -1,6 +1,6 @@
 # This is a generated file; do not edit or check into version control.
-camera=/Users/loic/development/flutter/.pub-cache/hosted/pub.dartlang.org/camera-0.10.0+3/
-camera_android=/Users/loic/development/flutter/.pub-cache/hosted/pub.dartlang.org/camera_android-0.10.0+3/
-camera_avfoundation=/Users/loic/development/flutter/.pub-cache/hosted/pub.dartlang.org/camera_avfoundation-0.9.8+6/
-camera_web=/Users/loic/development/flutter/.pub-cache/hosted/pub.dartlang.org/camera_web-0.3.0+1/
-flutter_plugin_android_lifecycle=/Users/loic/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.7/
+camera=/Users/loic/.pub-cache/hosted/pub.dev/camera-0.10.5+9/
+camera_android=/Users/loic/.pub-cache/hosted/pub.dev/camera_android-0.10.8+16/
+camera_avfoundation=/Users/loic/.pub-cache/hosted/pub.dev/camera_avfoundation-0.9.13+10/
+camera_web=/Users/loic/.pub-cache/hosted/pub.dev/camera_web-0.3.2+2/
+flutter_plugin_android_lifecycle=/Users/loic/.pub-cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.17/
