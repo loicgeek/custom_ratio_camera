@@ -1,5 +1,6 @@
 name: custom_ratio_camera
 description: custom ratio for camera preview
+repository: https://github.com/loicgeek/custom_ratio_camera
 version: 0.0.4
 topics: [camera, custom-ratio]
 
